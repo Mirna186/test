@@ -28,9 +28,9 @@ int main() {
 
 ### TODO
 To do lista za nadopunu programa
-[x] Ispisati poruku za unos broja
-[x] Omogućiti unos broja
-[ ] Provjeriti je li broj troznamenkast
-[ ] Ispisati sumu znamenki broja 
+[x] Ispisati poruku za unos broja </br>
+[x] Omogućiti unos broja </br>
+[ ] Provjeriti je li broj troznamenkast </br>
+[ ] Ispisati sumu znamenki broja </br>
 
 [Povratak na vrh](#Markdown-vježba)
