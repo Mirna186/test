@@ -27,7 +27,7 @@ int main() {
 
 
 ### TODO
-To do lista za nadopunu programa
+To do lista za nadopunu programa </br>
 [x] Ispisati poruku za unos broja </br>
 [x] Omogućiti unos broja </br>
 [ ] Provjeriti je li broj troznamenkast </br>
